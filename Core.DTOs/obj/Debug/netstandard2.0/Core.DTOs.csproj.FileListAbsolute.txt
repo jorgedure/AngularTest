@@ -1,0 +1,8 @@
+C:\Users\lopez\source\repos\angular2\Core.DTOs\bin\Debug\netstandard2.0\Core.DTOs.deps.json
+C:\Users\lopez\source\repos\angular2\Core.DTOs\bin\Debug\netstandard2.0\Core.DTOs.dll
+C:\Users\lopez\source\repos\angular2\Core.DTOs\bin\Debug\netstandard2.0\Core.DTOs.pdb
+C:\Users\lopez\source\repos\angular2\Core.DTOs\obj\Debug\netstandard2.0\Core.DTOs.csprojAssemblyReference.cache
+C:\Users\lopez\source\repos\angular2\Core.DTOs\obj\Debug\netstandard2.0\Core.DTOs.AssemblyInfoInputs.cache
+C:\Users\lopez\source\repos\angular2\Core.DTOs\obj\Debug\netstandard2.0\Core.DTOs.AssemblyInfo.cs
+C:\Users\lopez\source\repos\angular2\Core.DTOs\obj\Debug\netstandard2.0\Core.DTOs.dll
+C:\Users\lopez\source\repos\angular2\Core.DTOs\obj\Debug\netstandard2.0\Core.DTOs.pdb

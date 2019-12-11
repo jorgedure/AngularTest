@@ -1,0 +1,2 @@
+C:\Users\lopez\source\repos\angular2\Core.DAL\obj\Debug\netstandard2.0\Core.DAL.AssemblyInfoInputs.cache
+C:\Users\lopez\source\repos\angular2\Core.DAL\obj\Debug\netstandard2.0\Core.DAL.AssemblyInfo.cs

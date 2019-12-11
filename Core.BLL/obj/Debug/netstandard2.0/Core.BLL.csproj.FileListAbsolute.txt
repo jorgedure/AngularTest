@@ -1,0 +1,13 @@
+C:\Users\lopez\source\repos\angular2\Core.BLL\bin\Debug\netstandard2.0\Core.BLL.deps.json
+C:\Users\lopez\source\repos\angular2\Core.BLL\bin\Debug\netstandard2.0\Core.BLL.dll
+C:\Users\lopez\source\repos\angular2\Core.BLL\obj\Debug\netstandard2.0\Core.BLL.csprojAssemblyReference.cache
+C:\Users\lopez\source\repos\angular2\Core.BLL\obj\Debug\netstandard2.0\Core.BLL.AssemblyInfoInputs.cache
+C:\Users\lopez\source\repos\angular2\Core.BLL\obj\Debug\netstandard2.0\Core.BLL.AssemblyInfo.cs
+C:\Users\lopez\source\repos\angular2\Core.BLL\bin\Debug\netstandard2.0\Core.BLL.pdb
+C:\Users\lopez\source\repos\angular2\Core.BLL\bin\Debug\netstandard2.0\AplicationDataContext.dll
+C:\Users\lopez\source\repos\angular2\Core.BLL\bin\Debug\netstandard2.0\Core.Entities.dll
+C:\Users\lopez\source\repos\angular2\Core.BLL\bin\Debug\netstandard2.0\AplicationDataContext.pdb
+C:\Users\lopez\source\repos\angular2\Core.BLL\bin\Debug\netstandard2.0\Core.Entities.pdb
+C:\Users\lopez\source\repos\angular2\Core.BLL\obj\Debug\netstandard2.0\Core.BLL.csproj.CopyComplete
+C:\Users\lopez\source\repos\angular2\Core.BLL\obj\Debug\netstandard2.0\Core.BLL.dll
+C:\Users\lopez\source\repos\angular2\Core.BLL\obj\Debug\netstandard2.0\Core.BLL.pdb
