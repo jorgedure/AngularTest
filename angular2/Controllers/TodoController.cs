@@ -39,9 +39,10 @@ namespace angular2.Controllers
         {
             return todoListServices.UpdateTodo(todoItem);
         }
+
         //[HttpPost("CheckAll")]
         //public IEnumerable<TodoList> CheckAll(TodoList todo) {
-          
+
         //    return todoListServices.GetAll();
         //}
     }

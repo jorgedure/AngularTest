@@ -3,6 +3,7 @@ import { trigger, transition, style, animate} from '@angular/animations';
 import { TodoService } from '../../services/todo.service';
 import { Todo } from '../../interfaces/todo';
 import { THIS_EXPR } from '@angular/compiler/src/output/output_ast';
+import { NgForOf } from '@angular/common';
 
 @Component({
   selector: 'todo-list',
@@ -27,14 +28,17 @@ import { THIS_EXPR } from '@angular/compiler/src/output/output_ast';
 
 export class TodoListComponent implements OnInit {
   todoTitle: string;
-  todos: Todo[] = [];
+    todos: Todo[] = [];
+    beforeEditCache: string;
+    filter: string = 'all';
+    check: boolean=true;
 
   constructor(private todoService: TodoService) {
 
    }
 
   ngOnInit() {
-    this.getTodos();
+      this.getTodos();
     this.todoTitle = '';
 
   }
@@ -59,15 +63,26 @@ export class TodoListComponent implements OnInit {
           this.getTodos()
       });
   }
-  doneEdit(todo) {
+  edit(todo) {
       this.todoService.doneEdit(todo).subscribe(result => {
           this.getTodos()
+          todo.editing = false;
       });
   }
-  //checkAll() {
-  //    this.todoService.checkAll().subscribe(result => {
-  //        this.getTodos()
-  //    })
+  doneEdit(todo: Todo): void {
+      todo.editing = true;
+  }
+  remaining() {
+      return this.todos.filter(todo => todo.completed).length;
+  }
+  atLeastOneCompleted() {
+      return this.todos.filter(x => x.completed).length > 0;
+  }
+  clearCompleted() {
+      this.todos.filter(y => y.completed).forEach(x => this.deleteTodo(x.id));
+  }
+  //  checkAll() {
+  //      this.todos.forEach(x => this.edit());
   //}
 }
 

@@ -6284,11 +6284,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lopez\\source\\repos\\angular2\\Core.BLL\\Core.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.BLL\\Core.BLL.csproj",
       "projectName": "Core.BLL",
-      "projectPath": "C:\\Users\\lopez\\source\\repos\\angular2\\Core.BLL\\Core.BLL.csproj",
+      "projectPath": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.BLL\\Core.BLL.csproj",
       "packagesPath": "C:\\Users\\lopez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lopez\\source\\repos\\angular2\\Core.BLL\\obj\\",
+      "outputPath": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6304,8 +6304,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\lopez\\source\\repos\\angular2\\DataContext\\AplicationDataContext.csproj": {
-              "projectPath": "C:\\Users\\lopez\\source\\repos\\angular2\\DataContext\\AplicationDataContext.csproj"
+            "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\DataContext\\AplicationDataContext.csproj": {
+              "projectPath": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\DataContext\\AplicationDataContext.csproj"
             }
           }
         }

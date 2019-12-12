@@ -2,7 +2,7 @@
 
 namespace AplicationDataContext.Migrations
 {
-    public partial class updateEntities : Migration
+    public partial class updateentities : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

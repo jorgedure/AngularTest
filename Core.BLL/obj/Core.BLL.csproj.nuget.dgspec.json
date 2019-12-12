@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lopez\\source\\repos\\angular2\\Core.BLL\\Core.BLL.csproj": {}
+    "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.BLL\\Core.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lopez\\source\\repos\\angular2\\Core.BLL\\Core.BLL.csproj": {
+    "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.BLL\\Core.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lopez\\source\\repos\\angular2\\Core.BLL\\Core.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.BLL\\Core.BLL.csproj",
         "projectName": "Core.BLL",
-        "projectPath": "C:\\Users\\lopez\\source\\repos\\angular2\\Core.BLL\\Core.BLL.csproj",
+        "projectPath": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.BLL\\Core.BLL.csproj",
         "packagesPath": "C:\\Users\\lopez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lopez\\source\\repos\\angular2\\Core.BLL\\obj\\",
+        "outputPath": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\lopez\\source\\repos\\angular2\\DataContext\\AplicationDataContext.csproj": {
-                "projectPath": "C:\\Users\\lopez\\source\\repos\\angular2\\DataContext\\AplicationDataContext.csproj"
+              "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\DataContext\\AplicationDataContext.csproj": {
+                "projectPath": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\DataContext\\AplicationDataContext.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\lopez\\source\\repos\\angular2\\Core.Entities\\Core.Entities.csproj": {
+    "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.Entities\\Core.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lopez\\source\\repos\\angular2\\Core.Entities\\Core.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.Entities\\Core.Entities.csproj",
         "projectName": "Core.Entities",
-        "projectPath": "C:\\Users\\lopez\\source\\repos\\angular2\\Core.Entities\\Core.Entities.csproj",
+        "projectPath": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.Entities\\Core.Entities.csproj",
         "packagesPath": "C:\\Users\\lopez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lopez\\source\\repos\\angular2\\Core.Entities\\obj\\",
+        "outputPath": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\Users\\lopez\\source\\repos\\angular2\\DataContext\\AplicationDataContext.csproj": {
+    "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\DataContext\\AplicationDataContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lopez\\source\\repos\\angular2\\DataContext\\AplicationDataContext.csproj",
+        "projectUniqueName": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\DataContext\\AplicationDataContext.csproj",
         "projectName": "AplicationDataContext",
-        "projectPath": "C:\\Users\\lopez\\source\\repos\\angular2\\DataContext\\AplicationDataContext.csproj",
+        "projectPath": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\DataContext\\AplicationDataContext.csproj",
         "packagesPath": "C:\\Users\\lopez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lopez\\source\\repos\\angular2\\DataContext\\obj\\",
+        "outputPath": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\DataContext\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -173,8 +173,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\lopez\\source\\repos\\angular2\\Core.Entities\\Core.Entities.csproj": {
-                "projectPath": "C:\\Users\\lopez\\source\\repos\\angular2\\Core.Entities\\Core.Entities.csproj"
+              "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.Entities\\Core.Entities.csproj": {
+                "projectPath": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.Entities\\Core.Entities.csproj"
               }
             }
           }

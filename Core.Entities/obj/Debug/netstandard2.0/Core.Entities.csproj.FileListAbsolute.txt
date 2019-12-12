@@ -6,3 +6,11 @@ C:\Users\lopez\source\repos\angular2\Core.Entities\bin\Debug\netstandard2.0\Core
 C:\Users\lopez\source\repos\angular2\Core.Entities\obj\Debug\netstandard2.0\Core.Entities.dll
 C:\Users\lopez\source\repos\angular2\Core.Entities\obj\Debug\netstandard2.0\Core.Entities.pdb
 C:\Users\lopez\source\repos\angular2\Core.Entities\obj\Debug\netstandard2.0\Core.Entities.csprojAssemblyReference.cache
+C:\Users\lopez\Documents\GitHub\AngularTest\Core.Entities\bin\Debug\netstandard2.0\Core.Entities.deps.json
+C:\Users\lopez\Documents\GitHub\AngularTest\Core.Entities\bin\Debug\netstandard2.0\Core.Entities.dll
+C:\Users\lopez\Documents\GitHub\AngularTest\Core.Entities\bin\Debug\netstandard2.0\Core.Entities.pdb
+C:\Users\lopez\Documents\GitHub\AngularTest\Core.Entities\obj\Debug\netstandard2.0\Core.Entities.csprojAssemblyReference.cache
+C:\Users\lopez\Documents\GitHub\AngularTest\Core.Entities\obj\Debug\netstandard2.0\Core.Entities.AssemblyInfoInputs.cache
+C:\Users\lopez\Documents\GitHub\AngularTest\Core.Entities\obj\Debug\netstandard2.0\Core.Entities.AssemblyInfo.cs
+C:\Users\lopez\Documents\GitHub\AngularTest\Core.Entities\obj\Debug\netstandard2.0\Core.Entities.dll
+C:\Users\lopez\Documents\GitHub\AngularTest\Core.Entities\obj\Debug\netstandard2.0\Core.Entities.pdb

@@ -6245,11 +6245,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lopez\\source\\repos\\angular2\\Core.Entities\\Core.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.Entities\\Core.Entities.csproj",
       "projectName": "Core.Entities",
-      "projectPath": "C:\\Users\\lopez\\source\\repos\\angular2\\Core.Entities\\Core.Entities.csproj",
+      "projectPath": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.Entities\\Core.Entities.csproj",
       "packagesPath": "C:\\Users\\lopez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lopez\\source\\repos\\angular2\\Core.Entities\\obj\\",
+      "outputPath": "C:\\Users\\lopez\\Documents\\GitHub\\AngularTest\\Core.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
