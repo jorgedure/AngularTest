@@ -16,15 +16,13 @@
 </div>
 
 <div class="extra-container">
-  <!--<label><input type="checkbox" (change)="checkAll()"> Check All</label>-->
-  <div>{{ remaining() }} Items Completed</div>
+  <div><label><input type="checkbox" [value]="remaining()==0" (change)="checkAll()"> Check All</label></div>
+  <div>{{ remaining() }} Items Remaining</div>
 </div>
 <div class="extra-container">
-    <div *ngIf="atLeastOneCompleted()">
-      <button (click)="clearCompleted()">Clear Completed</button>
-    </div>
+  <div *ngIf="atLeastOneCompleted()">
+    <button (click)="clearCompleted()">Clear Completed</button>
+  </div>
 </div>
-
-
 
 

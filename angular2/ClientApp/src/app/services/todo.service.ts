@@ -46,9 +46,9 @@ export class TodoService {
         return this.http.post<number>(API_URL + '/api/Todo/Edit', todo , { headers: this.getHeaders() });
     }
 
-    clearCompleted(todo) {
-        return this.http.post<number>(API_URL + '/api/Todo/DeleteCompleted', todo);
-    }
+    //clearCompleted(todo) {
+    //    return this.http.post<number>(API_URL + '/api/Todo/DeleteCompleted', todo);
+    //}
     //checkAll(){
     //    return this.http.post<Todo[]>(API_URL + '/api/Todo/CheckAll', { headers: this.getHeaders() });
     //}
