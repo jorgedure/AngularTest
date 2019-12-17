@@ -1,0 +1,54 @@
+<div class="float-right alert-dismissible alert">
+    <div class="m-dropdown m-dropdown--inline m-dropdown--arrow m-dropdown--align-right m-dropdown--align-push" data-dropdown-toggle="hover" aria-expanded="true">
+        <a href="user" class="m-portlet__nav-link btn btn-lg btn-secondary  m-btn m-btn--outline-2x m-btn--air m-btn--icon m-btn--icon-only m-btn--pill  m-dropdown__toggle">
+            <mat-icon  aria-hidden="false" aria-label="Example home icon">arrow_back</mat-icon>
+        </a>
+    </div>
+</div>
+<div class="m-content container">
+        <div class="container col-3 btn-lg"><label>Editar Datos del Usuario</label></div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="m-portlet m-portlet--tab">
+                    <form class="m-form m-form--fit m-form--label-align-right" data-bind="submit: editUser" id="form">
+                        <div class="m-portlet__body">
+                            <div class="form-group m-form__group">
+                                <label for="exampleInputEmail1">
+                                    Nombre
+                                </label>
+                                <input type="text" class="form-control m-input" id="firstName" placeholder="Nombre" name="firstName">
+                            </div>
+                            <div class="form-group m-form__group">
+                                <label for="exampleInputEmail1">
+                                    Apellido
+                                </label>
+                                <input type="text" class="form-control m-input" id="lastName" placeholder="Apellido" name="lastName">
+                            </div>
+                            <div class="form-group m-form__group">
+                                <label>
+                                    Email
+                                </label>
+                                <input type="email" class="form-control m-input" id="email" placeholder="Email" name="email">
+                            </div>
+                            <div class="form-group m-form__group">
+                                <label>
+                                    Número de teléfono
+                                </label>
+                                <input type="number" class="form-control m-input" id="phoneNumber" placeholder="Número de teléfono" name="phoneNumber" data-bind="value: phoneNumber">
+                            </div>
+                        </div>
+                        <div class="m-portlet__foot m-portlet__foot--fit">
+                            <div class="m-form__actions">
+                                <button type="submit" class="btn btn-primary">
+                                    Guardar
+                                </button>
+                                <button type="button" class="btn btn-secondary">
+                                    Cancelar
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
