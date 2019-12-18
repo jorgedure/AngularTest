@@ -18,7 +18,7 @@ import{DemoMaterialModule} from './DemoMaterialModule';
     IndexComponent,
     AddUserComponent,
     EditUserComponent,
-    LoginComponent
+    LoginComponent,
   ],
   imports: [
     BrowserModule,
@@ -27,8 +27,8 @@ import{DemoMaterialModule} from './DemoMaterialModule';
     DemoMaterialModule,
     RouterModule.forRoot([
       { path: '', component: LoginComponent, pathMatch: 'full' },
-      { path: 'add-user', component: AddUserComponent },
-      { path: 'edit-user', component: EditUserComponent },
+      { path: 'user/add-user', component: AddUserComponent },
+      { path: 'user/edit-user', component: EditUserComponent },
       { path: 'user', component: IndexComponent },
     ]),
     BrowserAnimationsModule

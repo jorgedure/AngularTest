@@ -12,19 +12,19 @@
                                 Login
                             </h3>
                         </div>
-                        <form class="col-5 col-sm-push-4 col-md-2 container m-form m-login__form ng-pristine ng-untouched ng-valid" action="">
-                            <div class="form-group m-form__group">
-                              <mat-form-field class="Email-full-width">
+                        <form class="col-5  container m-form m-login__form ng-pristine ng-untouched ng-valid" action="">
+                            <div class="form-group">
+                              <mat-form-field class="Email-full-width ">
                                   <input matInput placeholder="Email">
                               </mat-form-field>
                             </div>  
-                            <div class="form-group m-form__group">
+                            <div class="form-group">
                               <mat-form-field class="Email-full-width">
                                   <input matInput type="password" placeholder="Password" name="password" id="password">
                               </mat-form-field>
                             </div>
                             <div class="m-login__form-action">
-                                <button mat-button id="m_login_signin_submit" type="submit"  class="btn btn-danger m-btn m-btn--pill m-btn--custom m-btn--air m-login__btn m-login__btn--primary">
+                                <button mat-button id="m_login_signin_submit" [routerLink]="['/user']" class="btn btn-danger m-btn m-btn--pill m-btn--custom m-btn--air m-login__btn m-login__btn--primary">
                                     Log In
                                 </button>
                             </div>

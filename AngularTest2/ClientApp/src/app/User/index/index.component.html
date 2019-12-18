@@ -1,8 +1,8 @@
 <!-- <nav-menu></nav-menu> -->
 <div class="float-right alert-dismissible alert">
     <div class="m-dropdown m-dropdown--inline m-dropdown--arrow m-dropdown--align-right m-dropdown--align-push" data-dropdown-toggle="hover" aria-expanded="true">
-        <a href="add-user" class="m-portlet__nav-link btn btn-lg btn-secondary  m-btn m-btn--outline-2x m-btn--air m-btn--icon m-btn--icon-only m-btn--pill  m-dropdown__toggle">
-            <mat-icon  aria-hidden="false" aria-label="Example home icon">add</mat-icon>
+        <a [routerLink]="['/user/add-user']" class="m-portlet__nav-link btn btn-lg  m-btn m-btn--outline-2x m-btn--air m-btn--icon m-btn--icon-only m-btn--pill  m-dropdown__toggle">
+            <mat-icon  ngbPopover="Add New User" triggers="mouseenter:mouseleave" aria-hidden="false" aria-label="Example home icon">add</mat-icon>
         </a>
     </div>
 </div>
